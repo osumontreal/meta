@@ -1,5 +1,7 @@
 # Open Science UMontreal
 
+[Voir la version française](README.fr.md)
+
 ## Vision Statement
 
 ## How to Contribute
