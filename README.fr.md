@@ -14,7 +14,7 @@ Clique sur une des sections ou défile vers le bas pour en apprendre sur notre i
 
 Si tu n'es pas familière ou familier avec GitHub, cette interface peut te sembler intimidante :dizzy_face: :fearful:. Ne t'inquiète pas, le document que tu es en train de lire t'informera simplement à propos de notre initiative :relaxed:. Il est le *hub* structurant l'information pertinente à transmettre afin de t'orienter et d'introduire les différentes façons possibles de contribuer à l'enrichissement de la communauté OSUM :rocket:. Si cela n'est pas suffisant, nous avons pris soin de fournir des liens pertinents pour approfondir davantage :nerd_face: :bookmark_tabs:. 
 
-  * [Qu'est-ce qu'Open Science UMontréal?](#quest-ce-que-quopen-science-umontreal)
+  * [Qu'est-ce qu'Open Science UMontréal?](#quest-ce-quopen-science-umontréal)
 	  * [Mission](#mission)
 	  * [Que faisons-nous?](#ce-que-nous-faisons)
 	  * [Pour qui](#pour-qui)
